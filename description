@@ -1,0 +1,3 @@
+Description:
+GeoTherma is a data-driven project focused on analyzing low-temperature geothermal resources across the United States. Using Python, we processed, cleaned, and analyzed geospatial and thermal datasets to assess the potential of hydrothermal sites for sustainable energy generation.
+The analysis involved exploring correlations between subsurface temperature, geographic location, and estimated energy output. We ranked geothermal sites based on key metrics such as temperature gradients, depth, and proximity to infrastructure.
